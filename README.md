@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swaraj-Singh-30
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python & adv java
-- 💞️ I’m looking to collaborate on any sort of project
+-  I’m looking to collaborate on any sort of project
 - 📫 How to reach me swarajsingh3020@gmail.com
 
 <!---
