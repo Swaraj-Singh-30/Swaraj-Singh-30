@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, HTMl, CSS and Python**
+- 💬 Ask me about **Java, HTML, CSS and Python**
 
 - 📫 How to reach me **G-mail:- swarajsingh3020@gmail.com or on twitter:- @Swaraj_Singh__**
 
