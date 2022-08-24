@@ -1,6 +1,5 @@
-[![MasterHead](https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149)]
 
-<h1 align="center">Hi 👋, I'm Swaraj Singh from India🇮🇳</h1>
+<h1 align="center">Hi 🙏, I'm Swaraj Singh from India🇮🇳</h1>
 <h3 align="center">A curious and aspiring coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
 
