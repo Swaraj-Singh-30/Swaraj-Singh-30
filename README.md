@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 🙏, I'm Swaraj Singh from India🇮🇳</h1>
 <h3 align="center">A curious and aspiring coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj-singh-30" alt="swaraj-singh-30" /></a> </p>
 
