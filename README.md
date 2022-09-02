@@ -1,6 +1,6 @@
 ### Namaste 🙏🏻, I am Swaraj Singh
 #### I am Coder 
-![I am Coder ](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![I am Coder ](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm Swaraj Singh, an aspiring developer from India. I enjoy calisthenics, reading, and programming. I'm working to improve my skills and am open to learning new things.
 
