@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **G-mail:- swarajsingh3020@gmail.com or on twitter:- @Swaraj_Singh__**
 
-- ⚡ Fun fact ** Active on Twitter**
+- ⚡ Fun fact ** Active on Twitter **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
