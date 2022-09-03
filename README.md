@@ -9,7 +9,7 @@ I'm Swaraj Singh, an aspiring developer from India. I enjoy calisthenics, readin
 Skills: REACT / JS / HTML / CSS / JAVA / PYTHON
 
 - 🔭 I’m currently working on a personal project 
-- 🌱 I’m currently learning React ⚛ 
+- 🌱 I’m currently learning React ⚛ and Typescript
 - 👯 I’m looking to collaborate on interesting projects  
 - 📫 How to reach me: G-mail :- swarajsingh3020@gmail.com 
 - ⚡ Fun fact: You can find me on Twitter @Swaraj_Singh__ 
