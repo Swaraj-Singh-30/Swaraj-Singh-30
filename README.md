@@ -13,7 +13,7 @@ I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenic
 
 
 - 🔭 I’m currently working on a personal project 
-- 🌱 I’m currently learning React ⚛ and Typescript 
+- 🌱 I’m currently learning **React ⚛ and Typescript**
 - 👯 I’m looking to collaborate on interesting projects  
 - 📫 How to reach me: G-mail :- swarajsingh3020@gmail.com 
 - ⚡ Fun fact: You can find me on Twitter @Swaraj_Singh__ 
