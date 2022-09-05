@@ -33,5 +33,5 @@ I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenic
  
  <a href="https://github.com/Swaraj-Singh-30"><img alt="Swaraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Singh-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=241e4e"/></a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30&bg_color=1E2A56&color=C0C8CF&line=C0C8CF&point=FFFFFF&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30&bg_color=241e4e&color=899878&line=899878&point=899878&hide_border=true) 
 
