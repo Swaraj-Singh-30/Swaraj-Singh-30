@@ -10,11 +10,17 @@ I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenic
 
 **Skills**: REACT / JS / HTML / CSS / JAVA / PYTHON
 
+
+
 - 🔭 I’m currently working on a personal project 
 - 🌱 I’m currently learning React ⚛ and Typescript 
 - 👯 I’m looking to collaborate on interesting projects  
 - 📫 How to reach me: G-mail :- swarajsingh3020@gmail.com 
 - ⚡ Fun fact: You can find me on Twitter @Swaraj_Singh__ 
+
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swaraj-Singh-30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Swaraj_Singh__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Swaraj_Singh__)  
