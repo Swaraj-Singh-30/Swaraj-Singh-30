@@ -1,4 +1,4 @@
-### Namaste 🙏🏻, I am Swaraj Singh
+## Namaste 🙏🏻, I am Swaraj Singh
 
 
 #### I am Coder 👩🏻‍💻. Working on some projects and learning new things 😄
