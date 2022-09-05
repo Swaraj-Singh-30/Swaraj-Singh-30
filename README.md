@@ -29,9 +29,9 @@ I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Singh-30)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaraj-Singh-30&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swaraj-Singh-30&show_icons=true&count_private=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Swaraj-Singh-30)  
 
