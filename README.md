@@ -4,7 +4,7 @@
 
 I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenics, reading, and programming. I'm working to improve my skills🎯 and am open to learning new things.
 
-## SKILLS AND EXPERIENCE
+## SKILLS AND EXPERIENCE 👇🏻
 
 Skills: REACT / JS / HTML / CSS / JAVA / PYTHON
 
