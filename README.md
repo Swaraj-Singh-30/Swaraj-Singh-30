@@ -27,11 +27,11 @@ I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenic
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
- <a href="https://github.com/Swaraj-Singh-30"><img alt="Swaraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swaraj-Singh-30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1E2A56" /></a>
- <a href="http://www.github.com/Swaraj-Singh-30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaraj-Singh-30&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- <a href="https://github.com/Swaraj-Singh-30"><img alt="Swaraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Singh-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+ <a href="https://github.com/Swaraj-Singh-30"><img alt="Swaraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swaraj-Singh-30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=241e4e" /></a>
+ 
+ <a href="http://www.github.com/Swaraj-Singh-30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaraj-Singh-30&stroke=ffffff&background=241e4e&ring=ffd046&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
+ <a href="https://github.com/Swaraj-Singh-30"><img alt="Swaraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Singh-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=ffd046"/></a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30&bg_color=1E2A56&color=C0C8CF&line=C0C8CF&point=FFFFFF&hide_border=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Swaraj-Singh-30)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30&bg_color=1E2A56&color=C0C8CF&line=C0C8CF&point=FFFFFF&hide_border=true) 
 
