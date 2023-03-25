@@ -28,6 +28,5 @@ I'm Swaraj Singh, an aspiring developer from India 🇮🇳. I enjoy calisthenic
  <a href="http://www.github.com/Swaraj-Singh-30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swaraj-Singh-30&stroke=ffffff&background=241e4e&ring=ffd046&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
  <a href="https://github.com/Swaraj-Singh-30"><img alt="Swaraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Singh-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=241e4e"/></a>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swaraj-Singh-30&bg_color=241e4e&color=e4e6c3&line=c0c0c0&point=e4e6c3&hide_border=true) 
+ 
 
