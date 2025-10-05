@@ -1,22 +1,18 @@
-## I am Swaraj Singh
+## Hi there! I am Swaraj 👋
 
-
-### I am Coder 👩🏻‍💻. Working on some projects and learning new things 😄
 ![I am Coder ](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-I'm Swaraj Singh, an aspiring developer. I enjoy calisthenics, reading, and programming. I'm working to improve my skills🎯 and am open to learning new things.
+Hello! I’m Swaraj, an aspiring full-stack developer currently focused on mastering the MERN stack. I’m passionate about blending technology and design by integrating Three.js, GSAP, and Anime.js to create visually engaging and interactive web experiences.
 
 ## SKILLS AND EXPERIENCE 👇🏻
 
-**Skills**: REACT / JS / HTML / CSS / JAVA / PYTHON
-
+**Skills**: REACT / JS / HTML / CSS / JAVA / PYTHON / C / C++ 
 
 
 - 🔭 I’m currently working on a personal project 
 - 🌱 I’m currently learning **React ⚛ and Typescript**
 - 👯 I’m looking to collaborate on interesting projects  
-- 📫 How to reach me: Twitter
-- ⚡ Fun fact: You can find me on Twitter **@Swaraj_Singh__**
+- ⚡ Fun fact: You can find me on Twitter **@__Swaraj**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swaraj-Singh-30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Swaraj_Singh__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Swaraj_Singh__)  
