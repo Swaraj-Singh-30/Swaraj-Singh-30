@@ -2,7 +2,7 @@
 
 ![I am Coder ](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Hey, I’m Swaraj. I tend to pick something up, dig into it, and extend it beyond where it started—usually by building and experimenting. Right now, I’m exploring systems and AI, and documenting what I learn along the way.
+Hey, I’m Swaraj. I tend to pick something up, dig into it, and extend it beyond where it started, usually by building and experimenting. Right now, I’m exploring systems and AI, and documenting what I learn along the way.
 
 ## SKILLS AND EXPERIENCE 👇🏻
 
