@@ -37,7 +37,7 @@ Right now, I'm exploring systems and AI, and documenting what I learn along the 
 | --- | --- |
 | ♟️ [**marc_v0**](https://github.com/Swaraj-Singh-30/marc_v0) | My attempt at building a chess engine from scratch |
 | ✏️ [**Kut**](https://github.com/Swaraj-Singh-30/Kut) | A lightweight terminal editor in C++ using VT100 escape sequences, with multiple buffers and syntax highlighting for C |
-| 🔗 [**freakyUrl**](https://github.com/Swaraj-Singh-30/freakyUrl) | A phrase-masked redirect system: add weird phrases to links while the actual redirect stays clean, deterministic and safe |
+| 🔗 [**freakyUrl**](https://github.com/Swaraj-Singh-30/freakyUrl) | A phrase-masked redirect system: add weird phrases to links while the actual redirect stays clean, deterministic and safe | [live on Vercel](https://freaky-url.vercel.app)|
 | 🎧 [**Lofi Hub**](https://github.com/Swaraj-Singh-30/Lofi-Hub) | A lofi music website, [live on Netlify](https://lofi-hub.netlify.app) |
  
 <br>
@@ -62,4 +62,4 @@ Right now, I'm exploring systems and AI, and documenting what I learn along the 
 
 <br>
 
-<sub>Thanks for stopping by ✨</sub><img width="1920" height="1080" alt=" " src="https://github.com/user-attachments/assets/5aa1f8ae-9b42-4b41-b6d8-084b4cbc12e6" />
+<sub>Thanks for stopping by ✨</sub>
