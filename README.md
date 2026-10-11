@@ -1,6 +1,4 @@
-
 <img width="1920" height="1080" alt=" " src="https://github.com/user-attachments/assets/7682a714-4995-43a3-9f7a-6a867b5695d9" />
-
 
 <br>
 
@@ -28,7 +26,7 @@ Right now, I'm exploring systems and AI, and documenting what I learn along the 
 ## 🔮 Tech I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,go,c,cpp,python,postgres,mongodb,redis,linux,git&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,go,c,cpp,python,postgres,mongodb,fastapi,figma,md,vim,vite,vercel,threejs,tailwind,redis,linux,git&theme=dark" alt="tech stack" />
 </p>
 
 <br>
